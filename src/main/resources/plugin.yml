@@ -1,0 +1,3 @@
+name: spendrew-t3
+main: com.tenjava.entries.spendrew.t3.TenJava
+version: '${project.version}'
